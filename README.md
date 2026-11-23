@@ -2,6 +2,8 @@
 
 OOP Lab work in Java, BS Computer Science, NUML Islamabad
 
+Under the supervision of Ms. Ayesha Khalid
+
 - Assignment-1-Social-App/ — Social app with users, posts and comments
 - Assignment-2-Social-App/ — Social app extended with inheritance and interfaces
 - Lab-Task-1/ — Salary and bank account program
